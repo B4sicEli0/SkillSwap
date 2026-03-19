@@ -9,7 +9,7 @@ public enum Level {
 
     Level(int value){ this.value = value; }
 
-    public int getValue(){ return value};
+    public int getValue(){ return value;}
 
     public boolean isSufficient(Level required){
         return this.value >= required.value;
