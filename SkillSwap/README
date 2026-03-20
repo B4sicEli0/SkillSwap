@@ -21,3 +21,56 @@ it.skillswap
 │
 └── storage
     (vuoto per ora)
+
+____________________________________________________
+
+AVVIO
+=== SkillSwap ===
+1. Crea studente
+2. Aggiungi offer
+3. Aggiungi request
+4. Lista offer e request
+5. Trova match
+0. Esci
+
+____________________________________________________
+
+CREAZIONE STUDENTE
+Scelta: 1
+ID: S1
+Nome: Luca
+Classe: 4A
+Email: luca@mail.it
+Studente creato!
+
+Scelta: 1
+ID: S2
+Nome: Anna
+Classe: 4A
+Email: anna@mail.it
+Studente creato!
+
+____________________________________________________
+
+AGGIUNTA SKILL
+Scelta: 2
+ID Offer: O1
+Student ID: S2
+Skill ID (K1/K2): K1
+Livello (BEGINNER, INTERMEDIATE, ADVANCED): ADVANCED
+Offer creata!
+
+____________________________________________________
+
+LISTA DATI
+Scelta: 4
+
+--- STUDENTI ---
+S1 - Luca (4A)
+S2 - Anna (4A)
+
+--- OFFERS ---
+O1 - Anna offre Programmazione C [ADVANCED]
+
+--- REQUESTS ---
+R1 - Luca cerca Programmazione C [BEGINNER]
