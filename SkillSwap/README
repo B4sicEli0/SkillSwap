@@ -1,0 +1,23 @@
+it.skillswap
+│
+├── app
+│   └── Main.java
+│
+├── domain
+│   ├── Student.java
+│   ├── Skill.java
+│   ├── Offer.java
+│   ├── Request.java
+│   ├── 
+│   ├── 
+│   └── 
+│
+├── service
+│   ├── MatchingService.java. da riguardare
+│   └── MatchResult.java. da riguardare
+│
+├── state
+│   └── SkillSwapState.java   ✅ (spostato qui) non ancora fatta
+│
+└── storage
+    (vuoto per ora)
