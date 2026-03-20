@@ -17,7 +17,7 @@ it.skillswap
 │   └── MatchResult.java. da riguardare
 │
 ├── state
-│   └── SkillSwapState.java   ✅ (spostato qui) non ancora fatta
+│   └── SkillSwapState.java   (spostato qui) non ancora fatta
 │
 └── storage
     (vuoto per ora)
