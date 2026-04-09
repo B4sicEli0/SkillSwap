@@ -1,4 +1,4 @@
-/* package SkillSwap.Milestone1;
+package SkillSwap.domain;
 
 public class Exchange {
     private String id;
@@ -13,4 +13,4 @@ public class Exchange {
         this.status = "PROPOSED";
     }
 }
-*/
+

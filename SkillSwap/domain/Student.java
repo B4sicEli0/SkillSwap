@@ -1,4 +1,4 @@
-package SkillSwap.Milestone1;
+package SkillSwap.domain;
 
 public class Student {
     private String id;

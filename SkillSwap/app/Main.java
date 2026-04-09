@@ -1,6 +1,12 @@
-package SkillSwap.Milestone1;
+package SkillSwap.app;
 
 import java.util.Scanner;
+
+import SkillSwap.domain.Offer;
+import SkillSwap.domain.Request;
+import SkillSwap.domain.Skill;
+import SkillSwap.domain.Student;
+import SkillSwap.state.SkillSwapState;
 
 public class Main {
     public static void main(String[] args) {

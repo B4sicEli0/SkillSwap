@@ -1,4 +1,4 @@
-package SkillSwap.Milestone2;
+package SkillSwap.domain;
 
 public enum Level {
     BEGINNER(1),
