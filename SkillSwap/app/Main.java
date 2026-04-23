@@ -1,12 +1,12 @@
 package SkillSwap.app;
 
-import java.util.Scanner;
-
+import SkillSwap.domain.Level;
 import SkillSwap.domain.Offer;
 import SkillSwap.domain.Request;
 import SkillSwap.domain.Skill;
 import SkillSwap.domain.Student;
 import SkillSwap.state.SkillSwapState;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -64,7 +64,7 @@ public class Main {
                         break;
                     }
 
-                    Offer o = new Offer(oid, stud, skill, "BASE", "");
+                    Offer o = new Offer(oid, stud, skill, Level.BEGINNER, "");
                     state.offers.put(oid, o);
                     break;
 
